@@ -4,7 +4,7 @@
 
 ⚝ Studied Psychology at the University of Amsterdam 
 
-⚝ Working on projects involving machine learning models, data visualization, data analysis & deep neural networks
+⚝ Working on my portfolio involving machine learning models, data visualization, data analysis & deep neural networks
 
 ⚝ Always up to collaborate and discuss new ideas in tech!
 
